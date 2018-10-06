@@ -1,1 +1,3 @@
 this is the new polygon feature
+line 2
+line 3
